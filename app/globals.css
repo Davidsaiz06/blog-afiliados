@@ -24,3 +24,50 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+/* Estilos para que el texto de nuestros artículos se vea perfecto */
+.prose-articulos h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.prose-articulos p {
+  color: #d1d5db; /* Gris claro para leer bien */
+  margin-bottom: 1.25rem;
+  line-height: 1.75;
+}
+
+.prose-articulos ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  color: #d1d5db;
+  margin-bottom: 1.5rem;
+}
+
+.prose-articulos li {
+  margin-bottom: 0.5rem;
+}
+
+/* LA MAGIA: Convertir los enlaces de Amazon en botones corporativos */
+.prose-articulos a {
+  display: inline-flex;
+  align-items: center;
+  background-color: #f7dfa5; /* Amarillo característico de Amazon */
+  color: #111111; /* Texto oscuro para que contraste bien */
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 0.6rem 1.5rem;
+  border-radius: 0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.prose-articulos a:hover {
+  background-color: #f5c041; /* Amarillo más intenso al pasar el ratón */
+  transform: translateY(-1px); /* Pequeño efecto de elevación */
+}
