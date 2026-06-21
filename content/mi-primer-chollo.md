@@ -34,7 +34,7 @@ Esta mochila no solo destaca por su diseño minimalista y tremendamente elegante
 
 Hay días en los que sales de casa a las ocho de la mañana y no vuelves hasta la noche, empalmando las clases teóricas con tus entrenamientos o escapadas deportivas. Para este ritmo de vida, llevar una mochila convencional es una tortura para la espalda, y por eso la Borealis es la inversión definitiva.
 
-![The North Face Borealis](https://www.barrabes.com/the-north-face-borealis-classic/product-10486)
+![The North Face Borealis](https://coresurfingshop.com/cdn/shop/files/the-north-face-borealis-classic-tfn-black.jpg?v=1752332327&width=1080)
 
 Nacida en la montaña pero adaptada a la ciudad, su mayor secreto reside en el sistema de suspensión FlexVent. Sus correas moldeadas y el panel trasero de malla transpirable distribuyen el peso de tal manera que llevar diez kilos parece la mitad, evitando además que llegues a clase sudando. Por dentro, ofrece el equilibrio perfecto: un bolsillo protector para tus dispositivos tecnológicos y compartimentos lo bastante amplios como para meter tus zapatillas o la ropa de deporte sin que nada se mezcle.
 
