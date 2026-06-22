@@ -11,7 +11,7 @@ Encontrar el equilibrio perfecto entre rendimiento, durabilidad y coste es uno d
 La clave de una buena compra reside en fijarse en los componentes internos, como la calidad de los interruptores mecánicos, la acústica del chasis y la ergonomía del diseño. Los modelos que presento a continuación han sido elegidos precisamente porque recortan gastos en marketing para invertirlo en la experiencia pura de escritura, ofreciendo un retorno de inversión inigualable para cualquier persona que pase horas tecleando cada día.
 
 
-### TOP 8: Keychron V1
+## TOP 8: Keychron V1
 
 ![Mochila Matein](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3c02sd4gEXON6dmVNx07m9VS16rB9eCdPSZmf5NHbjw&s=10)
 
@@ -20,7 +20,7 @@ Este teclado ha revolucionado lo que consideramos un periférico de entrada al m
 [Ver precio en Amazon](https://amzn.to/4eUK52C)
 
 
-### TOP 7: Epomaker TH80 Pro
+## TOP 7: Epomaker TH80 Pro
 
 ![Mochila Matein](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVl3RfMHym9jXplCnxRi-fyxRXUi5QxtQPIsSwQJKHg&s=10)
 
@@ -30,7 +30,7 @@ Cuando se busca conectividad inalámbrica impecable y un diseño que destaque si
 
 
 
-### TOP 6: Logitech MX Keys Mini
+## TOP 6: Logitech MX Keys Mini
 
 ![Mochila Matein](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuO2SrNeSl0A5Owh41BGoxaj-P6f98Y2dTJM_lLenqA&s=10)
 
@@ -40,7 +40,7 @@ Para quienes prefieren evitar los teclados mecánicos y buscan el silencio absol
 
 
 
-### TOP 5: Royal Kludge RK84
+## TOP 5: Royal Kludge RK84
 
 ![Mochila Matein](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeF_SAGZxZeiMUs_2Ez5d3hSoGztz8-sWY8TfTNrly8w&s=10)
 
@@ -49,7 +49,7 @@ Este modelo es la definición exacta de maximizar el valor de cada céntimo inve
 [Ver precio en Amazon](https://amzn.to/4uQbyHA)
 
 
-### TOP 4: Akko 3068B Plus
+## TOP 4: Akko 3068B Plus
 
 
 ![Mochila Matein](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIABdu2VGef2c77SCfhnmBDG3p8WLqNr9BXUZRWCT8w&s=10)
@@ -59,7 +59,7 @@ Si la estética visual es tan importante como el tacto, este dispositivo logra c
 [Ver precio en Amazon](https://amzn.to/4eoFnKv)
 
 
-### TOP 3: Cherry Stream Keyboard
+## TOP 3: Cherry Stream Keyboard
 
 ![Mochila Matein](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpidBkL8U2SLiAl1wEMK40dBu6ZZ13f2kUEU11BFRpg&s=10)
 
@@ -69,7 +69,7 @@ Representando la opción más económica de toda la selección, este periférico
 
 
 
-### TOP 2: NuPhy Air75 V2
+## TOP 2: NuPhy Air75 V2
 
 ![Mochila Matein](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ulOgKE5iPw6-HB99qd33InERhWg2cBp1EGsSPa7aDw&s=10)
 
@@ -79,7 +79,7 @@ En el nicho de los teclados mecánicos de perfil bajo, este dispositivo destaca 
 
 
 
-### TOP 1: Tecware Phantom
+## TOP 1: Tecware Phantom
 
 ![Mochila Matein](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MMz4B35DgmM8i6IkZraVs2gqBN3PaVyZvBiduRPJ-g&s=10)
 
