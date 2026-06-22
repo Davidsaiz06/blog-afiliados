@@ -10,7 +10,6 @@ Encontrar el equilibrio perfecto entre rendimiento, durabilidad y coste es uno d
 
 La clave de una buena compra reside en fijarse en los componentes internos, como la calidad de los interruptores mecánicos, la acústica del chasis y la ergonomía del diseño. Los modelos que presento a continuación han sido elegidos precisamente porque recortan gastos en marketing para invertirlo en la experiencia pura de escritura, ofreciendo un retorno de inversión inigualable para cualquier persona que pase horas tecleando cada día.
 
------
 
 ### TOP 8: Keychron V1
 
@@ -20,7 +19,6 @@ Este teclado ha revolucionado lo que consideramos un periférico de entrada al m
 
 [Ver precio en Amazon](https://amzn.to/4eUK52C)
 
------
 
 ### TOP 7: Epomaker TH80 Pro
 
@@ -30,7 +28,7 @@ Cuando se busca conectividad inalámbrica impecable y un diseño que destaque si
 
 [Ver precio en Amazon](https://amzn.to/4eXbh0I)
 
------
+
 
 ### TOP 6: Logitech MX Keys Mini
 
@@ -40,7 +38,7 @@ Para quienes prefieren evitar los teclados mecánicos y buscan el silencio absol
 
 [Ver precio en Amazon](https://amzn.to/4eBnPt8)
 
------
+
 
 ### TOP 5: Royal Kludge RK84
 
@@ -50,7 +48,6 @@ Este modelo es la definición exacta de maximizar el valor de cada céntimo inve
 
 [Ver precio en Amazon](https://amzn.to/4uQbyHA)
 
------
 
 ### TOP 4: Akko 3068B Plus
 
@@ -61,7 +58,6 @@ Si la estética visual es tan importante como el tacto, este dispositivo logra c
 
 [Ver precio en Amazon](https://amzn.to/4eoFnKv)
 
------
 
 ### TOP 3: Cherry Stream Keyboard
 
@@ -71,7 +67,7 @@ Representando la opción más económica de toda la selección, este periférico
 
 [Ver precio en Amazon](https://amzn.to/43QHnVB)
 
------
+
 
 ### TOP 2: NuPhy Air75 V2
 
@@ -81,7 +77,7 @@ En el nicho de los teclados mecánicos de perfil bajo, este dispositivo destaca 
 
 [Ver precio en Amazon](https://amzn.to/3QWnZnh)
 
------
+
 
 ### TOP 1: Tecware Phantom
 
@@ -91,5 +87,5 @@ Para cerrar la selección, este modelo se presenta como la opción indestructibl
 
 [Ver precio en Amazon](https://amzn.to/4xEeWIh)
 
----
+
 *Publicado por Top el topo.*
